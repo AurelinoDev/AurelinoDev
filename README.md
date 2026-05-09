@@ -99,13 +99,6 @@ Procuro minha primeira oportunidade na área para **evoluir na prática** e **co
 <br/>
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="left">
- 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 > _"Evoluindo na prática, sem pular etapas."_
